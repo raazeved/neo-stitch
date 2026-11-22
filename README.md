@@ -20,6 +20,9 @@ do prompt à imagem, da imagem ao movimento, do movimento ao código.
 
 </div>
 
+> [!NOTE]
+> **Fork de estudo.** Esta é a minha cópia do [Neo Stitch](https://github.com/rtadewald/neo-stitch), criado por [Rodrigo Tadewald](https://github.com/rtadewald), mantida como parte da minha formação na **Asimov Academy**. Todo o crédito do projeto original é do autor; aqui ficam os meus estudos e ajustes.
+
 <br>
 
 <p align="center">
